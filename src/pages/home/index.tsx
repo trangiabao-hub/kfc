@@ -1,5 +1,11 @@
+import FoodList from "../../components/list-food";
+
 function Home() {
-  return <div>Home</div>;
+  return (
+    <div>
+      <FoodList />
+    </div>
+  );
 }
 
 export default Home;
