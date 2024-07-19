@@ -48,7 +48,6 @@ function Login() {
         >
           <Input placeholder="Enter your email" />
         </Form.Item>
-
         <Form.Item
           label="Password"
           name="password"
